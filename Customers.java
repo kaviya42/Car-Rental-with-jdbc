@@ -73,12 +73,12 @@ public class Customers {
     }
 
     public int calculateTotalOrders() {
-        // Implement logic to calculate total orders
+        
         return 0;
     }
 
     public void getCustomerDetails() {
-        // Implement logic to retrieve and display customer details
+     
     }
 
     public void updateCustomerInfo(String email, String phone, String address) throws InvalidDataException {
